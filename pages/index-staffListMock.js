@@ -26,7 +26,6 @@ export default function Index() {
         <Box my={4}>
           <BigCard>
             <StaffList />
-          
           </BigCard>
           <Copyright />
         </Box>
